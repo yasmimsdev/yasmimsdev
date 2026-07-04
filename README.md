@@ -6,9 +6,9 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+##  Sobre mim
 
-Olá! Meu nome é **Yasmim Silva** (nome da certidão) e sou estudante de **Desenvolvimento de Sistemas**.
+Olá! Meu nome é **Yasmim Silva** e sou estudante de **Desenvolvimento de Sistemas**.
 
 Estou aprendendo programação e desenvolvimento web, buscando evoluir constantemente por meio de estudos e projetos práticos.
 
