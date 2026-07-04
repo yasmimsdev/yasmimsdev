@@ -42,5 +42,4 @@ Atualmente, minhas principais tecnologias são **Python** e **HTML**, e sigo exp
 
 Caso queira entrar em contato:
 
-- GitHub: https://github.com/SEU_USUARIO
-- E-mail: seuemail@email.com
+- E-mail: yasmim.silva00978@gmail.com
