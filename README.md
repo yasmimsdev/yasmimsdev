@@ -43,4 +43,5 @@ Atualmente, minhas principais tecnologias são **Python** e **HTML**, e sigo exp
 
 Caso queira entrar em contato:
 
-- E-mail: yasmim.silva00978@gmail.com
+![LinkedIn](https://www.linkedin.com/in/yasmimsdev/)
+Email: yasmim.silva00978@gmail.com
