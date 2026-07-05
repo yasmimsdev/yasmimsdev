@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑🏻‍💻 About Me
 
 I'm a Systems Development student with a strong interest in software engineering and continuous learning.
 
