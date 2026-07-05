@@ -21,7 +21,7 @@ My goal is to become a well-rounded software developer by continuously improving
 ## 🛠 Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git" />
 </p>
 
 ---
@@ -42,15 +42,6 @@ My goal is to become a well-rounded software developer by continuously improving
 * Open Source
 * Problem Solving
 * Building Practical Projects
-
----
-
-## 📈 GitHub Statistics
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
