@@ -1,50 +1,85 @@
-<h1 align="center">Olá, eu sou a Yasmim Silva 👋</h1>
+# Hi, I'm Yasmim 👋
 
-<p align="center">
-  <strong>Estudante de Desenvolvimento de Sistemas</strong>
+**Systems Development Student** | 🐍 Python
+
+🎓 Technical student in Systems Development
+💡 Passionate about technology and software development
+🌱 Continuously learning and building practical projects
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Systems Development student with a strong interest in software engineering and continuous learning.
+
+I'm currently exploring different areas of software development through academic studies and personal projects while building a solid foundation in programming, problem-solving, and software design.
+
+My goal is to become a well-rounded software developer by continuously improving my technical skills and contributing to meaningful projects.
+
+---
+
+## 🛠 Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
 </p>
 
 ---
 
-##  Sobre mim
+## 📚 Currently Learning
 
-Olá! Meu nome é **Yasmim Silva** e sou estudante de **Desenvolvimento de Sistemas**.
-
-Estou aprendendo programação e desenvolvimento web, buscando evoluir constantemente por meio de estudos e projetos práticos.
-
-Atualmente, minhas principais tecnologias são **Python** e **HTML**, e sigo expandindo meus conhecimentos para construir aplicações cada vez melhores.
-
----
-
-## 🛠️ Stack & Tecnologias
-
-### Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+* 🐍 Python
+* 📂 Git & GitHub
+* 💻 Programming Logic
+* 🏗 Software Development Fundamentals
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Interests
 
-- 📚 Aprender cada vez mais sobre programação.
-- 💻 Desenvolver projetos práticos.
-- 🚀 Evoluir como desenvolvedora de software.
+* Software Engineering
+* Software Development
+* Open Source
+* Problem Solving
+* Building Practical Projects
 
 ---
 
-## 📫 Contato
+## 📈 GitHub Statistics
 
-Caso queira entrar em contato:
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-## 📫 Contato
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmimsdev)
+## 🚀 Career Journey
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasmim.silva00978@gmail.com)
+```text
+Systems Development
+        │
+        ▼
+Software Engineering
+        │
+        ▼
+Continuous Learning
+        │
+        ▼
+Professional Experience
+        │
+        ▼
+Specialization
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with people who enjoy technology, software development, and continuous learning.
+
+Feel free to explore my repositories or reach out for collaboration.
+
+---
+
+> **"Always learning. Always building."**
