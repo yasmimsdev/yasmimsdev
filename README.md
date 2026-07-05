@@ -42,7 +42,6 @@ My goal is to become a well-rounded software developer by continuously improving
 * 🐍 Python
 * 📂 Git & GitHub
 * 💻 Programming Logic
-* 🏗 Software Development Fundamentals
 
 ---
 
