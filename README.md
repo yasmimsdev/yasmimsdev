@@ -32,7 +32,7 @@ My goal is to become a well-rounded software developer by continuously improving
 ## 🛠 Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=python,git" />
 </p>
 
 ---
