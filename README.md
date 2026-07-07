@@ -45,42 +45,8 @@ My goal is to become a well-rounded software developer by continuously improving
 
 ---
 
-## 🎯 Interests
-
-* Software Engineering
-* Software Development
-* Open Source
-* Problem Solving
-* Building Practical Projects
-
----
-
-## 🚀 Career Journey
-
-```text
-Systems Development
-        │
-        ▼
-Software Engineering
-        │
-        ▼
-Continuous Learning
-        │
-        ▼
-Professional Experience
-        │
-        ▼
-Specialization
-```
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with people who enjoy technology, software development, and continuous learning.
 
 Feel free to explore my repositories or reach out for collaboration.
-
----
-
-> **"Always learning. Always building."**
