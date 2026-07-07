@@ -23,7 +23,7 @@
 
 I'm a Systems Development student with a strong interest in software engineering and continuous learning.
 
-I'm currently exploring different areas of software development through academic studies and personal projects while building a solid foundation in programming, problem-solving, and software design.
+I'm currently exploring different areas of software development through academic studies and personal projects while building a solid foundation in programming and problem-solving.
 
 My goal is to become a well-rounded software developer by continuously improving my technical skills and contributing to meaningful projects.
 
